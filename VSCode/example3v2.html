@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Example 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+</head>
+<body>
+        <script>
+                function dispinfo(){
+                    var y = document.getElementById("date").value;
+                    alert("Name:"+document.getElementById("name").value+" "+"Date"+y+" "+"Email"+document.getElementById("email").value);
+                }
+            </script>
+    <form><center>
+        <table>
+            <tr>
+                <td>Name : </td>
+                <td><input id="name" type = "text" /></td>
+            </tr>
+            <tr>
+                <td>Date : </td>
+                <td><input id="date" type = "date" /></td>
+                </td>
+            <tr>
+                <td>E-Mail : </td>
+                <td><input id="email" type = "email" /></td>
+            </tr>
+            <tr>
+                <td colspan="2"><center><button type="submit" onclick=dispinfo()><a href="https://www.w3schools.com/html/">Submit</button></center></td>
+            </tr>
+        </table>
+    </center></form>
+</body>
+</html>

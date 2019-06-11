@@ -1,0 +1,34 @@
+ hybrid apps, kotlyn ,jquery , angular? html
+Java full stack? back hand java and front end javascript and angular
+Mean stack? angular html5 meanstack mongo db?
+
+HTML is also called Mark up language . For eg.<b> Hello<b>  Marking for making it bold
+CSS helps us in doing the jazzy and beautiful effects on website
+
+Javascript adds all the magic in HTML which is thelogic 
+
+CSS3.0 latest 
+
+ES2016 
+Ecma script 5,6,7
+
+It was usually made for static ops. Just the content.
+
+1991 HTML
+1994 HTML2
+1996 CSS1 + JavaScript
+1997 HTML4
+1998 CSS2
+2000 XHTML 1
+2002 Tabless Web Design
+2005 AJAX //Asynchronous java *Study*
+2009 HTML5 Some features that are not working in the browser. W3C? Not their initiative
+
+Flash uses browser earlier . 3rd party plugins were needed
+Nowadays we have the support in our browser .
+Browser based apps are common.
+Hybrid development: HTML application. User thinks that they are using a native application
+ Anything athat can run on web can run on apps as well.
+
+Performance of java script have increased a lot. Scripting language is one of the reasons why chrome is popular. Good hardware and resources available 
+MVC?
